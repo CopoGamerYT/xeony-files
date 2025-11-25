@@ -653,16 +653,6 @@
           }
         },
         {
-          "id": "generated.forgemod:euphonium:1.0.3+1.20@jar",
-          "name": "Euphonium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 44308377,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/euphonium-1.0.3+1.20.jar",
-            "MD5": "425bb48d42970a80a44a67982c25353c"
-          }
-        },
-        {
           "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
           "name": "Forgified Fabric API",
           "type": "ForgeMod",
