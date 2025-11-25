@@ -433,16 +433,6 @@
           ]
         },
         {
-          "id": "dlovin.advancedcompass:advancedcompass:1.2.15@jar",
-          "name": "Advanced Compass",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 496935,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/advancedcompass.forge.1.20.1-1.2.15.jar",
-            "MD5": "0c2be5ec936d386ec14a8919a02fe91a"
-          }
-        },
-        {
           "id": "anomaly:anomaly:1.0.0@jar",
           "name": "Anomaly",
           "type": "ForgeMod",
@@ -493,16 +483,6 @@
           }
         },
         {
-          "id": "generated.forgemod:cardinal:components-api-5.2.3@jar",
-          "name": "Cardinal",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 228709,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/cardinal-components-api-5.2.3.jar",
-            "MD5": "b902397d35fbbf6df232f46fb483024a"
-          }
-        },
-        {
           "id": "dzwdz.chat_heads:chat_heads:0.14.0@jar",
           "name": "Chat Heads",
           "type": "ForgeMod",
@@ -530,16 +510,6 @@
             "size": 1181413,
             "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
             "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
-          }
-        },
-        {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043375,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
           }
         },
         {
@@ -643,36 +613,6 @@
           }
         },
         {
-          "id": "generated.forgemod:essential_1:3-10-1_forge_1-20-1@jar",
-          "name": "Essential_1",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 54422984,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Essential_1-3-10-1_forge_1-20-1.jar",
-            "MD5": "d7ebaaa1b81cb1c378b712b25f39a332"
-          }
-        },
-        {
-          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
-          "name": "Forgified Fabric API",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3065813,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
-            "MD5": "2859d401e221e94acf0b48c5f7efa50b"
-          }
-        },
-        {
-          "id": "generated.forgemod:fabric:language-kotlin-1.13.7+kotlin.2.2.21@jar",
-          "name": "Fabric",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7479608,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
-            "MD5": "89a977d6a4d7a84b8390f9143dd689f7"
-          }
-        },
-        {
           "id": "de.keksuccino:fancymenu:3.8.1@jar",
           "name": "FancyMenu",
           "type": "ForgeMod",
@@ -680,16 +620,6 @@
             "size": 4472193,
             "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/fancymenu_forge_3.8.1_MC_1.20.1.jar",
             "MD5": "bf41a4251d431d92b89b6c91f84d5546"
-          }
-        },
-        {
-          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
-          "name": "Ferrite Core",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 123034,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
-            "MD5": "f52f538207a4829d7060550092ce2383"
           }
         },
         {
@@ -793,16 +723,6 @@
           }
         },
         {
-          "id": "generated.forgemod:kotlinforforge:4.11.0-all@jar",
-          "name": "Kotlinforforge",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 7193768,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/kotlinforforge-4.11.0-all.jar",
-            "MD5": "417caa90d17dc86cf7d24b802c2a5c56"
-          }
-        },
-        {
           "id": "net.kurolib:kurolib:0.1@jar",
           "name": "KuroLib",
           "type": "ForgeMod",
@@ -863,16 +783,6 @@
           }
         },
         {
-          "id": "generated.forgemod:presencefootsteps:1.10.1+1.20.1@jar",
-          "name": "PresenceFootsteps",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5664952,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/PresenceFootsteps-1.10.1+1.20.1.jar",
-            "MD5": "4d9d64890b7b90641ce6be7d0c9cd3c6"
-          }
-        },
-        {
           "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
           "name": "Embeddium Extra",
           "type": "ForgeMod",
@@ -880,26 +790,6 @@
             "size": 568608,
             "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
             "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
-          }
-        },
-        {
-          "id": "net.silentchaos512:scalinghealth:8.0.2+9@jar",
-          "name": "Scaling Health",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 535471,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/ScalingHealth-1.20.1-8.0.2+9.jar",
-            "MD5": "fb0644341064beedb623b359af15fcbc"
-          }
-        },
-        {
-          "id": "net.silentchaos512.lib:silentlib:8.0.0@jar",
-          "name": "Silent Lib",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 225948,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/silent-lib-1.20.1-8.0.0.jar",
-            "MD5": "4ac76c6245f8ca76ab0b20a0eca13ea1"
           }
         },
         {
@@ -950,16 +840,6 @@
             "size": 36870469,
             "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/tenseambience-1.18-1.20.4-FORGE-1.7.0.jar",
             "MD5": "af235cc2f68979a894b9a7a8501169d6"
-          }
-        },
-        {
-          "id": "generated.forgemod:terralith:2.5.4@jar",
-          "name": "Terralith",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 3156901,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
-            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
           }
         },
         {
@@ -1023,23 +903,1554 @@
           }
         },
         {
-          "id": "se.gory_moon:you_died:3.0.0.17@jar",
-          "name": "You Died",
-          "type": "ForgeMod",
+          "id": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
           "artifact": {
-            "size": 289212,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/YouDied-1.20-3.0.0.17-forge.jar",
-            "MD5": "f5a65fefe9d80208154d35e75fb82f8f"
+            "size": 71190,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "8785fc92e979fb2eec9ecd2172a57e7e",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar"
           }
         },
         {
-          "id": "generated.forgemod:zoomify:2.14.6+1.20.1@jar",
-          "name": "Zoomify",
-          "type": "ForgeMod",
+          "id": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "d47adf54ffcd72bb6f7245a94885a324",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44216,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "fa6d66052b023bce38c06caa8d4d3ae4",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "850d8c9a1a53b45b0a73c7bc07095090",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 27069,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "c95c007f309b3809ffe07caeb765a8e8",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "34998b3529afb5e1893ef6c0e33371dc",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 43054,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "136b4bee49631fddc4caf9ae83af3bdc",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "86dbc003c99c1e93f1ecb880175e7272",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 24814,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "13c18152243070abfa2e98e4e2a4b7e7",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "d67ddbc80537a22c2b90df22ee09b59a",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 23891,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "7b697dd1746d42fa29077ef679893999",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "9d3cf3df55a3da35494be2dcfa1add76",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 33816,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "6499c3ab3e884df36bd257d7eba33c5c",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "0572112eeefbd28df34305e9950d2f54",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 22122,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "33e1c424bab9e0a660d055044289bb42",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "326f8ea7c3dd702685bb66df68410a86",
+            "path": "mods/.connector/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar",
+          "name": "cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 230152,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar",
+            "MD5": "270e35b39c4cf8b98a9443ec214bfce6",
+            "path": "mods/.connector/cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar.input",
+          "name": "cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar.input",
+            "MD5": "735dd8e7c8314822a80ec7ad656633a7",
+            "path": "mods/.connector/cardinal-components-api-5.2.3_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar",
+          "name": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 393001,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar",
+            "MD5": "f2c56fd687229bceb379dd617cfa6c23",
+            "path": "mods/.connector/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar.input",
+          "name": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar.input",
+            "MD5": "0bf7654f38b24f4602709ffca6767411",
+            "path": "mods/.connector/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar",
+          "name": "coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 2389974,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar",
+            "MD5": "bd4e16eea664c92d71d29db8a1e9b5d6",
+            "path": "mods/.connector/coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar.input",
+          "name": "coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar.input",
+            "MD5": "e18ab1b0dec75e150ec2c5586aebcb22",
+            "path": "mods/.connector/coroutil-fabric-1.20.1-1.3.7_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar",
+          "name": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 321411,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar",
+            "MD5": "767d954d94db1f983574d82d829e6846",
+            "path": "mods/.connector/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input",
+          "name": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input",
+            "MD5": "d73228793b372b491aed6e74b2742880",
+            "path": "mods/.connector/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar",
+          "name": "euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44313686,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar",
+            "MD5": "1bfa4810103e02e488e9a2b1e789ce8a",
+            "path": "mods/.connector/euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar.input",
+          "name": "euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar.input",
+            "MD5": "5bbd435ca1e0e2c4f9efcc465de51d1d",
+            "path": "mods/.connector/euphonium-1.0.3+1.20_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 51631,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar",
+            "MD5": "bceee7a57dff8755d6c59f3f29ab1573",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "95db26d9721d7fcd336d5eb374709c25",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3467363,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar",
+            "MD5": "88d6f93e0f58768fbb82b31732c4a2e3",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar.input",
+            "MD5": "a946134aa42987d32990b261f83b9bb4",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1815952,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar",
+            "MD5": "542430f0129a522667f3f7378e17eb97",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar.input",
+            "MD5": "8fa3d1cccdfab54f08081ab0a4db7a91",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1798,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar",
+            "MD5": "18d1a6e2aa43ec29c8f46831f868b09f",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar.input",
+            "MD5": "f2f170601daa298bfc65701cd2a16ac3",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1804,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar",
+            "MD5": "214c142e8065270d7f4fda81ef826690",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar.input",
+            "MD5": "9802b6a830eabed65bda421fe8aa2915",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1524844,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar",
+            "MD5": "dd330b7b52a932803811acf2f6cea155",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar.input",
+            "MD5": "cbc32cbc5629c2f0f036e7733431e4be",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1866,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar",
+            "MD5": "6bf2c0fafbc903b1d09174990316a4ef",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar.input",
+            "MD5": "96faa956a05a455b46ba64a770ab03ec",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 718070,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar",
+            "MD5": "7d6a3aa7254d2f88a03b621238f1d45d",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar.input",
+            "MD5": "0cc01a0a8bed6158e16eeff08573e9ee",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 24227,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar",
+            "MD5": "dca38bf76a7fa1a90e00c8ce150a5cc7",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "4cda06ca2722396f596dff31cf841549",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 157583,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar",
+            "MD5": "6e6e7e387253289af9e7bcb4f61f0b58",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "cbdd7463e02cb6f728a255d0d62a29ef",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 69067,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar",
+            "MD5": "8d4e080b1b8c6169a1cda450ff6c9dae",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "28cbe846178364f3478711af4f041d79",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 412682,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar",
+            "MD5": "acab0979413048be7d75b1fec0106c05",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "6b3d847324c191c4f9800047ebe368b3",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 286610,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar",
+            "MD5": "2b52833b851a038e72eff3f195d7b92b",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar.input",
+            "MD5": "2fab07e035d3718fa4d650f9ac112183",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7481146,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar",
+            "MD5": "a33611c6beaf40916306b2376554798f",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar.input",
+            "MD5": "606f5a9bb72475e1d6eaa07345dd92f5",
+            "path": "mods/.connector/fabric-language-kotlin-1.13.7+kotlin.2.2.21_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar",
+          "name": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 110783,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar",
+            "MD5": "4ed7df545f7362968e4c49d4ba2da0ff",
+            "path": "mods/.connector/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar.input",
+          "name": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar.input",
+            "MD5": "b1ad28c4f79acd52dd0ef70c85b0d9c2",
+            "path": "mods/.connector/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar",
+          "name": "PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5670172,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar",
+            "MD5": "0af2786804e92559e4c19dbc6505762d",
+            "path": "mods/.connector/PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar.input",
+          "name": "PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar.input",
+            "MD5": "3d1178724ccba110a2ab0fe64af62d64",
+            "path": "mods/.connector/PresenceFootsteps-1.10.1+1.20.1_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 69265,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar",
+            "MD5": "dab8287251952728d5265d18ed7522c7",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar.input",
+            "MD5": "d47adf54ffcd72bb6f7245a94885a324",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-base-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 41754,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar",
+            "MD5": "0ad02f8dc23f26e8fce16dc838f291f0",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar.input",
+            "MD5": "850d8c9a1a53b45b0a73c7bc07095090",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-block-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 24883,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar",
+            "MD5": "0a2ff2244f726225b7f9ee3f3326c817",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar.input",
+            "MD5": "34998b3529afb5e1893ef6c0e33371dc",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-chunk-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 41051,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar",
+            "MD5": "ab23a73b6f5fe25cb0d1ebabf82947df",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar.input",
+            "MD5": "86dbc003c99c1e93f1ecb880175e7272",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-entity-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 23035,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar",
+            "MD5": "1f7a3eb6a67df2e56de4d1bd1f2bef12",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar.input",
+            "MD5": "d67ddbc80537a22c2b90df22ee09b59a",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-item-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 21815,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar",
+            "MD5": "e44ec071acc286bd346a3990afecb2a3",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar.input",
+            "MD5": "9d3cf3df55a3da35494be2dcfa1add76",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-level-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31693,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar",
+            "MD5": "0bac7c12f0657040d219a41c59292ec1",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar.input",
+            "MD5": "0572112eeefbd28df34305e9950d2f54",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-scoreboard-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 20096,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar",
+            "MD5": "7b0407e5ef26ee466abe36a6bc7f1cec",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar.input",
+          "name": "cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar.input",
+            "MD5": "326f8ea7c3dd702685bb66df68410a86",
+            "path": "mods/.connector/temp/cardinal-components-api-5.2.3$cardinal-components-world-5.2.3.jar.input"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar",
+          "name": "coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1974601,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar",
+            "MD5": "fb732ee8f23fd56c4cf94fb1b61d80fc",
+            "path": "mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar.input",
+          "name": "coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar.input",
+            "MD5": "241a7184e73509551adfc2b916ab00b7",
+            "path": "mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$fabric-api-0.83.0+1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar",
+          "name": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar",
+          "type": "File",
+          "artifact": {
+            "size": 397198,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar",
+            "MD5": "9b680a583230400e887dc545aa974936",
+            "path": "mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar"
+          }
+        },
+        {
+          "id": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar.input",
+          "name": "coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar.input",
+            "MD5": "0bf7654f38b24f4602709ffca6767411",
+            "path": "mods/.connector/temp/coroutil-fabric-1.20.1-1.3.7$forge-config-api-port-fabric-547434-4583000.jar.input"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar",
+          "name": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 312290,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar",
+            "MD5": "13a25212b0a288f96c27f5e7324dc4b5",
+            "path": "mods/.connector/temp/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar.input",
+          "name": "euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar.input",
+            "MD5": "d73228793b372b491aed6e74b2742880",
+            "path": "mods/.connector/temp/euphonium-1.0.3+1.20$kaleido-config-0.3.1+1.3.2.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 49633,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar",
+            "MD5": "50e41d92ea1f13485368579db0cfe6d5",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar.input",
+            "MD5": "95db26d9721d7fcd336d5eb374709c25",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$atomicfu-jvm-0.29.0.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3385735,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar",
+            "MD5": "f88041359197a06a058e9e3234b9083b",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar.input",
+            "MD5": "a946134aa42987d32990b261f83b9bb4",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-reflect-2.2.21.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1778281,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar",
+            "MD5": "1a1c6dbc870c26d9ca0c583878d8b0ce",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar.input",
+            "MD5": "8fa3d1cccdfab54f08081ab0a4db7a91",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-2.2.21.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1274,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar",
+            "MD5": "398de79b2c45dcc06b27c17535fc564f",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar.input",
+            "MD5": "f2f170601daa298bfc65701cd2a16ac3",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk7-2.2.21.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1280,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar",
+            "MD5": "b08d68b1b6c65957ade0b99895a478a7",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar.input",
+            "MD5": "9802b6a830eabed65bda421fe8aa2915",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlin-stdlib-jdk8-2.2.21.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1493394,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar",
+            "MD5": "d2c64b1f9910e2e02fdff76aa71e5086",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar.input",
+            "MD5": "cbc32cbc5629c2f0f036e7733431e4be",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-core-jvm-1.10.2.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1303,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar",
+            "MD5": "9051ac01bce6328e474b92cfcfcb6f55",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar.input",
+            "MD5": "96faa956a05a455b46ba64a770ab03ec",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-coroutines-jdk8-1.10.2.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 701705,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar",
+            "MD5": "7e03eaac8fd30c00a3d5eb998fce8c33",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar.input",
+            "MD5": "0cc01a0a8bed6158e16eeff08573e9ee",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-datetime-jvm-0.7.1.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 23124,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar",
+            "MD5": "2c762091aa4786acaeba56a08730f6f7",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar.input",
+            "MD5": "4cda06ca2722396f596dff31cf841549",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-bytestring-jvm-0.8.0.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 154395,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar",
+            "MD5": "78cc0ae59c85870c87ea99c6894a3acc",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar.input",
+            "MD5": "cbdd7463e02cb6f728a255d0d62a29ef",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-io-core-jvm-0.8.0.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 66952,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar",
+            "MD5": "07e7c8dba492f3a72c1179c339221d1c",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar.input",
+            "MD5": "28cbe846178364f3478711af4f041d79",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-cbor-jvm-1.9.0.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 403367,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar",
+            "MD5": "8f15889384f4abec4d5567e38d8c2ad9",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar.input",
+            "MD5": "6b3d847324c191c4f9800047ebe368b3",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-core-jvm-1.9.0.jar.input"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 281004,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar",
+            "MD5": "06bbd1e834e09b98659cf4f5370ac672",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar.input",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar.input",
+            "MD5": "2fab07e035d3718fa4d650f9ac112183",
+            "path": "mods/.connector/temp/fabric-language-kotlin-1.13.7+kotlin.2.2.21$kotlinx-serialization-json-jvm-1.9.0.jar.input"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar",
+          "name": "iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 328770,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar",
+            "MD5": "16a9b5f4f7376bffb1e93531d343fff8",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar.input",
+          "name": "iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar.input",
+            "MD5": "cf371418b8e58d752ba1a7d5bd6de63e",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$antlr4-runtime-4.13.1.jar.input"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar",
+          "name": "iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar",
+          "type": "File",
+          "artifact": {
+            "size": 31150,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar",
+            "MD5": "e4f801d211e538116a1b9f86c7f913d0",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar.input",
+          "name": "iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar.input",
+            "MD5": "4dedf79b23164375183a2425584b2117",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-api-base-0.4.31+1802ada577.jar.input"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar",
+          "name": "iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar",
+          "type": "File",
+          "artifact": {
+            "size": 19317,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar",
+            "MD5": "b28e794513438d7e610ebcd48314b6ff",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar.input",
+          "name": "iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar.input",
+            "MD5": "0863f7dbb5089e1b8a3e382a8508f3eb",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$fabric-key-binding-api-v1-1.0.37+1802ada577.jar.input"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar",
+          "name": "iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 714514,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar",
+            "MD5": "bff203fc78ecd5534a751903d08570cf",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar.input",
+          "name": "iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar.input",
+            "MD5": "783f58f9f132400bb65c4803659d5647",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$glsl-transformer-2.0.1.jar.input"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar",
+          "name": "iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar",
+          "type": "File",
+          "artifact": {
+            "size": 76595,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar",
+            "MD5": "5ca553541c676b7a11c2a6412d2f74db",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar"
+          }
+        },
+        {
+          "id": "iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar.input",
+          "name": "iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar.input",
+            "MD5": "9124b178a8957249d0ce0ae5df7a6942",
+            "path": "mods/.connector/temp/iris-1.7.6+mc1.20.1$jcpp-1.4.14.jar.input"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar",
+          "name": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 107671,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar",
+            "MD5": "da69c3c961392d62f09c8039dbeb8a5e",
+            "path": "mods/.connector/temp/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar.input",
+          "name": "PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar.input",
+            "MD5": "b1ad28c4f79acd52dd0ef70c85b0d9c2",
+            "path": "mods/.connector/temp/PresenceFootsteps-1.10.1+1.20.1$kirin-1.15.6+1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar",
+          "name": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar",
+          "type": "File",
+          "artifact": {
+            "size": 230112,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar",
+            "MD5": "e38e0107c9827c95db28db361908fc7c",
+            "path": "mods/.connector/temp/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar.input",
+          "name": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar.input",
+            "MD5": "86ce4314b146494c181e7a4614e9a8e5",
+            "path": "mods/.connector/temp/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2.jar.input"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar",
+          "name": "Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1148529,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar",
+            "MD5": "84ec83096ccce215ad670ce6ea8c3055",
+            "path": "mods/.connector/temp/Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar.input",
+          "name": "Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/temp/Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar.input",
+            "MD5": "f3e4da8662b6a1ea16932b761d425661",
+            "path": "mods/.connector/temp/Zoomify-2.14.6+1.20.1$yet-another-config-lib-3.5.0+1.20.1-fabric.jar.input"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar",
+          "name": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 234809,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar",
+            "MD5": "070487ca7a0216fdc8291662485ff12e",
+            "path": "mods/.connector/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar.input",
+          "name": "Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar.input",
+            "MD5": "86ce4314b146494c181e7a4614e9a8e5",
+            "path": "mods/.connector/Zoomify-2.14.6+1.20.1$ktoml-core-jvm-0.5.2_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar",
+          "name": "Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 1892905,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar",
+            "MD5": "532e834421ce701b592f60d560846c68",
+            "path": "mods/.connector/Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar.input",
+          "name": "Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar.input",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/.connector/Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar.input",
+            "MD5": "98702b490fda5b790f7f615e35d8400b",
+            "path": "mods/.connector/Zoomify-2.14.6+1.20.1_mapped_srg_1.20.1.jar.input"
+          }
+        },
+        {
+          "id": "advancedcompass.forge.1.20.1-1.2.15.jar",
+          "name": "advancedcompass.forge.1.20.1-1.2.15.jar",
+          "type": "File",
+          "artifact": {
+            "size": 496935,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/advancedcompass.forge.1.20.1-1.2.15.jar",
+            "MD5": "0c2be5ec936d386ec14a8919a02fe91a",
+            "path": "mods/advancedcompass.forge.1.20.1-1.2.15.jar"
+          }
+        },
+        {
+          "id": "cardinal-components-api-5.2.3.jar",
+          "name": "cardinal-components-api-5.2.3.jar",
+          "type": "File",
+          "artifact": {
+            "size": 228709,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/cardinal-components-api-5.2.3.jar",
+            "MD5": "b902397d35fbbf6df232f46fb483024a",
+            "path": "mods/cardinal-components-api-5.2.3.jar"
+          }
+        },
+        {
+          "id": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "name": "Connector-1.0.0-beta.46+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5043375,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "c12d01f7b20d6909689e458dd9fa760b",
+            "path": "mods/Connector-1.0.0-beta.46+1.20.1.jar"
+          }
+        },
+        {
+          "id": "Essential_1-3-10-1_forge_1-20-1.jar",
+          "name": "Essential_1-3-10-1_forge_1-20-1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 54422984,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/Essential_1-3-10-1_forge_1-20-1.jar",
+            "MD5": "d7ebaaa1b81cb1c378b712b25f39a332",
+            "path": "mods/Essential_1-3-10-1_forge_1-20-1.jar"
+          }
+        },
+        {
+          "id": "euphonium-1.0.3+1.20.jar",
+          "name": "euphonium-1.0.3+1.20.jar",
+          "type": "File",
+          "artifact": {
+            "size": 44308377,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/euphonium-1.0.3+1.20.jar",
+            "MD5": "425bb48d42970a80a44a67982c25353c",
+            "path": "mods/euphonium-1.0.3+1.20.jar"
+          }
+        },
+        {
+          "id": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "name": "fabric-api-0.92.6+1.11.14+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3065813,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "MD5": "2859d401e221e94acf0b48c5f7efa50b",
+            "path": "mods/fabric-api-0.92.6+1.11.14+1.20.1.jar"
+          }
+        },
+        {
+          "id": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+          "name": "fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7479608,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar",
+            "MD5": "89a977d6a4d7a84b8390f9143dd689f7",
+            "path": "mods/fabric-language-kotlin-1.13.7+kotlin.2.2.21.jar"
+          }
+        },
+        {
+          "id": "ferritecore-6.0.1-forge.jar",
+          "name": "ferritecore-6.0.1-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 123034,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383",
+            "path": "mods/ferritecore-6.0.1-forge.jar"
+          }
+        },
+        {
+          "id": "kotlinforforge-4.11.0-all.jar",
+          "name": "kotlinforforge-4.11.0-all.jar",
+          "type": "File",
+          "artifact": {
+            "size": 7193768,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/kotlinforforge-4.11.0-all.jar",
+            "MD5": "417caa90d17dc86cf7d24b802c2a5c56",
+            "path": "mods/kotlinforforge-4.11.0-all.jar"
+          }
+        },
+        {
+          "id": "PresenceFootsteps-1.10.1+1.20.1.jar",
+          "name": "PresenceFootsteps-1.10.1+1.20.1.jar",
+          "type": "File",
+          "artifact": {
+            "size": 5664952,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/PresenceFootsteps-1.10.1+1.20.1.jar",
+            "MD5": "4d9d64890b7b90641ce6be7d0c9cd3c6",
+            "path": "mods/PresenceFootsteps-1.10.1+1.20.1.jar"
+          }
+        },
+        {
+          "id": "ScalingHealth-1.20.1-8.0.2+9.jar",
+          "name": "ScalingHealth-1.20.1-8.0.2+9.jar",
+          "type": "File",
+          "artifact": {
+            "size": 535471,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/ScalingHealth-1.20.1-8.0.2+9.jar",
+            "MD5": "fb0644341064beedb623b359af15fcbc",
+            "path": "mods/ScalingHealth-1.20.1-8.0.2+9.jar"
+          }
+        },
+        {
+          "id": "silent-lib-1.20.1-8.0.0.jar",
+          "name": "silent-lib-1.20.1-8.0.0.jar",
+          "type": "File",
+          "artifact": {
+            "size": 225948,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/silent-lib-1.20.1-8.0.0.jar",
+            "MD5": "4ac76c6245f8ca76ab0b20a0eca13ea1",
+            "path": "mods/silent-lib-1.20.1-8.0.0.jar"
+          }
+        },
+        {
+          "id": "Terralith_1.20.x_v2.5.4.jar",
+          "name": "Terralith_1.20.x_v2.5.4.jar",
+          "type": "File",
+          "artifact": {
+            "size": 3156901,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3",
+            "path": "mods/Terralith_1.20.x_v2.5.4.jar"
+          }
+        },
+        {
+          "id": "YouDied-1.20-3.0.0.17-forge.jar",
+          "name": "YouDied-1.20-3.0.0.17-forge.jar",
+          "type": "File",
+          "artifact": {
+            "size": 289212,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/YouDied-1.20-3.0.0.17-forge.jar",
+            "MD5": "f5a65fefe9d80208154d35e75fb82f8f",
+            "path": "mods/YouDied-1.20-3.0.0.17-forge.jar"
+          }
+        },
+        {
+          "id": "Zoomify-2.14.6+1.20.1.jar",
+          "name": "Zoomify-2.14.6+1.20.1.jar",
+          "type": "File",
           "artifact": {
             "size": 1890159,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Zoomify-2.14.6+1.20.1.jar",
-            "MD5": "54100349fa16d5f4697fd5c9944ee8f5"
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/files/mods/Zoomify-2.14.6+1.20.1.jar",
+            "MD5": "54100349fa16d5f4697fd5c9944ee8f5",
+            "path": "mods/Zoomify-2.14.6+1.20.1.jar"
           }
         },
         {
