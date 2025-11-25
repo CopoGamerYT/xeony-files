@@ -1,15 +1,16 @@
 {
   "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
     "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
   },
   "servers": [
-{
+    {
       "id": "escalofrios-beta",
-      "name": "Escalofrios (Beta)",
-      "description": "Encuentralos...",
+      "name": "ESCALOFRIOS (BETA)",
+      "description": "Encuentranos...",
       "icon": "https://i.imgur.com/b0NU3ck.png",
       "version": "1.0.0",
       "address": "localhost:25565",
@@ -532,13 +533,13 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "id": "generated.forgemod:connector:1.0.0-beta.47+1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
           "artifact": {
-            "size": 5043375,
-            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "c12d01f7b20d6909689e458dd9fa760b"
+            "size": 5043924,
+            "url": "http://va1.holy.gg:26403/launcherfiles/servers/escalofrios-beta-1.20.1/forgemods/required/Connector-1.0.0-beta.47+1.20.1.jar",
+            "MD5": "4939a883437eba96c70ac61b5e87e343"
           }
         },
         {
